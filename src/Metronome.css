@@ -1,0 +1,11 @@
+.metronome {
+  text-align: center;
+  max-width: 375px;
+  margin: auto;
+  padding: 30px;
+}
+
+.bpm-slider input {
+  width: 100%;
+  margin: 10px;
+}
